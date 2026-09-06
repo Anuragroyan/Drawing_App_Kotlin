@@ -16,6 +16,7 @@ Users can select colors from a palette, adjust brush stroke sizes, draw freely o
 * ⚡ Real-Time Drawing – Display drawing strokes directly on the canvas.
 
 🔄 Application Flow
+<img width="1312" height="1199" alt="image11" src="https://github.com/user-attachments/assets/b40aebca-de9b-4af9-9e4f-8e539eb16638" />
 
 
 🛠️ Tech Stack
